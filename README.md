@@ -8,9 +8,9 @@
 
 ---
 
-### About Me : :woman_technologist: I am a Full Stack Web Developer 
+### About Me : :woman_technologist: I am a Creative Thinker + Web Developer
 
-- :telescope: I completed my bootcamp program in Full-Stack Web Development
+- :telescope: I am a certified Full-Stack Web Developer
 
 - :seedling: I am currently working on expanding my knowledge on back end languages
 
