@@ -8,7 +8,7 @@
 
 ---
 
-### About Me : :woman_technologist: I am a Creative Thinker + Web Developer
+### About Me : :woman_technologist: 
 
 - :telescope: I am a certified Full-Stack Web Developer
 
